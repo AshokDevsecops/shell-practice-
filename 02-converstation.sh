@@ -1,6 +1,9 @@
 #!/bin/bash
 
-echo "Trump: Hey Iran, We are going to blast you"
-echo "Iran: Yes, Please go ahead"
-echo "Trump: Hey we are very serious"
-echo "Iran: we are also very serious"
+
+PERSON1=Trump
+PERSON2=Iran
+echo "$PERSON1: Hey Iran, We are going to blast you"
+echo "$PERSON2: Yes, Please go ahead"
+echo "$PERSON1: Hey we are very serious"
+echo "$PERSON2: we are also very serious"
